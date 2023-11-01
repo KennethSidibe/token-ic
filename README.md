@@ -49,7 +49,6 @@ npm install
 npm start
 
 
-
 # To Deploy
 
 1. Find out your principal id:
