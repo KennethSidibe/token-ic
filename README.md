@@ -15,6 +15,7 @@ token-IC introduces a cryptographic token KASD, alongside an interface where ind
 ## Setup and Installation
 
 TO-DO
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
@@ -44,6 +45,7 @@ The deployment process is quite difficult and I would strongly discourage to do 
 To try the front end, run. 
 
 npm install
+
 npm start
 
 
