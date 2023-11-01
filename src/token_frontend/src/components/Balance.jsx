@@ -26,7 +26,7 @@ function Balance() {
         <input
           id="balance-principal-id"
           type="text"
-          placeholder="Enter a Principal ID"
+          placeholder="Enter a Principal ID :"
           value={inputValue}
           onChange={(event) => {
             setInputValue(event.target.value);
