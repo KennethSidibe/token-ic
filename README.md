@@ -1,3 +1,26 @@
+# token-IC
+
+token-IC introduces a cryptographic token KASD, alongside an interface where individuals can claim 200,000 free tokens, and send or receive KASD tokens. Built with a React frontend and a Motoko backend, it fosters a seamless interaction with blockchain technology.
+
+## Tech Stack
+
+- Frontend: React
+- Backend: Motoko
+
+## Features
+
+- Claim 200,000 free KASD tokens
+- Send and receive KASD tokens
+
+## Setup and Installation
+
+TO-DO
+## Contributing
+
+Feel free to submit issues and enhancement requests.
+
+## License
+
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
@@ -14,6 +37,16 @@ limitations under the License.
 
 Here is the TL;DR version of the above licence:
 https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+
+# IMPORTANT
+
+The deployment process is quite difficult and I would strongly discourage to do so. The front end works fine though, but trying to interact with the interface might make crash the system.
+To try the front end, run. 
+
+npm install
+npm start
+
+
 
 # To Deploy
 
